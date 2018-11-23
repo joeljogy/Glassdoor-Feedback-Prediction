@@ -267,7 +267,7 @@ if __name__ == "__main__":
         review_research = ReviewResearch()
 
         # reading and viewing the data
-        review_data = review_research.read_data(filename='GlassDoorData.csv')
+        review_data = review_research.read_data(filename='GlassdoorData.csv')
 
         # do conditional frequency distribution to find top 50 words 
         pos_neg_vocab_data = review_research.CFD(review_data,lang='english',outfile='./newreviewdata.csv')
