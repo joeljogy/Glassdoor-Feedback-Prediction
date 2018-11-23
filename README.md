@@ -3,7 +3,7 @@ To use feedback written on Glassdoor for the company Honeywell and do necessary 
 
 ### Types of analyses done on the data: 
 1. On a quarterly basis, categorize the feedbacks/reviews into positive/negative/neutral reviews 
-2. Understand what are the Given a new review the model quickly identifiestop reasons for positivity in the company 
+2. Understand what are the top reasons for positivity in the company 
 3. Understand what are the top reasons for grievances in the company 
 
 ### Types of predictions done on the data: 
