@@ -1,4 +1,4 @@
-# Glassdoor-Feedback-Prediction
+# Glassdoor-Feedback-Prediction (Sentiment Analysis)
 To use feedback written on Glassdoor for the company Honeywell and do necessary predictions and analyses to understand if a new review that is written falls as a positive or negative review. 
 
 ### Types of analyses done on the data: 
