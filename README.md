@@ -9,5 +9,8 @@ To use feedback written on Glassdoor for the company Honeywell and do necessary 
 ### Types of predictions done on the data: 
 1. Given a new review the model quickly identifies if the review is truly positive or negatives outweigh positive.
 
+### Data used for the analyses: 
+1. "GlassdoorData.csv" uploaded in the repo.
+
 ### Package requirements in Python: 
 -pandas, numpy, matplotlib, nltk, seaborn
